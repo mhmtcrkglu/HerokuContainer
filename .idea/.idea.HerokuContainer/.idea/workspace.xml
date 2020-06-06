@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="963e79a1-4b1f-4dc2-8503-529af46ca21a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HerokuContainer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HerokuContainer/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="963e79a1-4b1f-4dc2-8503-529af46ca21a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,8 +85,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591451325777</updated>
-      <workItem from="1591451328604" duration="985000" />
+      <workItem from="1591451328604" duration="1301000" />
     </task>
+    <task id="LOCAL-00001" summary="docker file fix">
+      <created>1591453318130</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591453318130</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,10 +102,37 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docker file fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="docker file fix" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="599" y="370" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591451487269">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="599" y="370" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1591451487269" />
+    <state x="179" y="143" key="MergeDialog" timestamp="1591453376987">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="179" y="143" key="MergeDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1591453376987" />
+    <state x="607" y="283" key="MultipleFileMergeDialog" timestamp="1591453382330">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="607" y="283" key="MultipleFileMergeDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1591453382330" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1591453320256">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1591453320256" />
   </component>
 </project>
