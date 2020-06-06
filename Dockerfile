@@ -2,7 +2,7 @@
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1 AS build
 WORKDIR /src
 COPY *.sln .
-COPY HerokuContainer/*.csproj ./HerokuContainer/
+COPY HerokuContainer/*.csproj HerokuContainer/
 RUN dotnet restore
 COPY . .
 
